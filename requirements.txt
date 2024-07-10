@@ -7,3 +7,4 @@ python-dateutil==2.7.5
 twine==4.0.1
 typing_extensions==4.3.0
 urllib3==1.26.12
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
